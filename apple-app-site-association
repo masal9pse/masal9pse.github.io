@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "masal9pse.com.example.deeplinkCookbook",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
