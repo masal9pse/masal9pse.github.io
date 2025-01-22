@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "965QQTKG5X.com.example.flutterEngineerCodecheck",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
