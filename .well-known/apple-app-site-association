@@ -1,11 +1,25 @@
 {
   "applinks": {
-      "apps": [],
-      "details": [
+    "apps": [],
+    "details": [
       {
-        "appID": "965QQTKG5X.com.example.flutterEngineerCodecheck",
-        "paths": ["*"]
+        "appIDs": [
+          "965QQTKG5X.com.example.flutterEngineerCodecheck"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
       }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "965QQTKG5X.com.example.flutterEngineerCodecheck"
     ]
   }
 }
